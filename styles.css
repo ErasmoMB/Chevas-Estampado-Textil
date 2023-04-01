@@ -389,10 +389,10 @@ footer div {
     margin: 0 20px;
   }
 }
-@media (max-width: 560px) {
+@media (max-width: 530px) {
   header {
     flex-wrap: wrap;
-    flex-direction: column;
+    justify-content: center;
   }
 }
 @media (max-width: 768px) {
