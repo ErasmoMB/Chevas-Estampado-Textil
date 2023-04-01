@@ -351,6 +351,8 @@ footer div {
     flex-direction: column-reverse;
     text-align: left;
   }
+}
+@media (max-width: 425px) {
   .description {
     font-size: 1.5rem;
     line-height: 2rem;
