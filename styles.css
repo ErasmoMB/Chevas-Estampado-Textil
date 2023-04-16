@@ -88,7 +88,7 @@ nav {
   display: contents;
 }
 .logo-header h1 {
-  color: #b7a06c;
+  color: #e69133;
 }
 .logo-header p {
   font-size: 1.4rem;
@@ -317,7 +317,7 @@ footer div {
   display: contents;
 }
 .logo-footer h1 {
-  color: #b7a06c;
+  color: #e69133;
 }
 .logo-footer p {
   font-size: 1.4rem;
@@ -345,6 +345,10 @@ footer div {
   list-style: none;
   display: flex;
   align-items: center;
+  justify-content: center;
+}
+.social-networks a {
+  margin: 5px;
 }
 .contact li:nth-child(3) {
   margin-top: 10px;
